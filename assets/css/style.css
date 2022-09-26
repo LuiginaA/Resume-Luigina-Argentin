@@ -19,11 +19,9 @@
 background-color: 	#f2f3f4;
 }
 
-
 .bg-color-work-history {
 background-color: #c18963 ;
 }
-
 
 .bg-color-contact {
     background-color: #ffffff;
@@ -83,8 +81,7 @@ margin: 0;
     float: none;
 }
 
-
-
+.history-heading, 
 .section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -351,7 +348,7 @@ footer {
     display: block;
     top: 2.4em;
     position: absolute;
-    left: 6px;
+    left: -6px;
     border-radius: 12px;
     content: '';
     background-color: #fafafa;
